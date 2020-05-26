@@ -20,5 +20,5 @@ The project deals with extracting and analyzing insights from social network dat
 
 I am running this app on an Ubuntu Vm inside Virtual Box. Additionally, I have installed Python(and the required libraries), Java, Scala & Apache Spark.
 
-* TweetStream.py - This file is for extracting streams of tweets and routing them through a Stream Listener to a secure socket connection. I have hidden the API & Token keys for accessing the Twitter API  
+* TweetStream.py - This file is for extracting streams of tweets and routing them through a Stream Listener to a secure socket connection. I have hidden the consumer & access keys which is needed to access the Twitter API  
 * SparkStreamingApp.ipynb - In this file, Spark Streaming consumes the data streams and feeds it to the Spark engine for processing and analyzing the tweets.
