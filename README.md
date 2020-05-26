@@ -1,4 +1,4 @@
-# Real-Time-Tweet-Analysis-with-Spark-Streaming
+# Real-Time-Analysis-of-Tweets-with-Spark-Streaming
 
 ## Overview of Spark Streaming
 
